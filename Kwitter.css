@@ -1,0 +1,13 @@
+body
+{
+	background-image: url("background.jpg");
+}
+
+.login
+{
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
